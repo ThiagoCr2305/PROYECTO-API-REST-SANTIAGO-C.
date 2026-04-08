@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Actualizado",
+    "email": "juan2@gmail.com",
+    "rol": "user",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "María López",
+    "email": "maria@empresa.com",
+    "rol": "viewer",
+    "activo": false
+  },
+  {
+    "id": 4,
+    "nombre": "Juan",
+    "email": "juan@gmail.com",
+    "rol": "admin",
+    "activo": true
+  }
+]
