@@ -3,7 +3,7 @@
 # Mi API REST de Usuarios
 ## Instalación
 ```
-git clone https://github.com/ThiagoCr2305/PROYECTO-API-REST-SANTIAGO-C
+git clone https://github.com/ThiagoCr2305/PROYECTO-API-REST-SANTIAGO-C.
 cd mi-api
 npm install
 ```
